@@ -84,6 +84,8 @@ body {
     text-align: center;
 }
 
+/* ========== Headers ====================================================== */
+
 .first-header {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: normal;
@@ -91,8 +93,46 @@ body {
     color: #fff;
 }
 
+.second-header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    color: #fff;
+    font-size: 42px;
+
+}
+
+.third-header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    color: #fff;
+    font-size: 42px;
+
+}
+
+.description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray
+
+}
+
+
+
+/* ========= Links ======================================================== */
+
 .link {
     color: aquamarine;
     font-size: 16px;
-    text-align: center;
+    
 }
+
+/* ==========footer ====================================================== */
+
+.footer{
+    text-align: right;
+    color: gray;
+    font-size: 21px;
+}
+
+
+
